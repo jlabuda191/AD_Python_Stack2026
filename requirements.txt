@@ -7,3 +7,4 @@ jupyter
 ipykernel
 mlxtend>=0.24,<0.26
 statsmodels>=0.14.6,<0.15
+missingno
